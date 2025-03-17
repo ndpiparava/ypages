@@ -4,7 +4,7 @@
     "details": [
       {
         "appID": "77LUM685W7.com.yara.yaraplus.dev",
-        "paths": [ "/inbox" ]
+        "paths": [ "/ypages/*" ]
       }
     ]
   },
