@@ -4,7 +4,7 @@
     "details": [
       {
         "appID": "H93TVJ2XJU.com.yara.yaraplus.debug",
-        "paths": [ "/*" ]
+        "paths": [ "*" ]
       }
     ]
   },
