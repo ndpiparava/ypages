@@ -7,10 +7,5 @@
         "paths": [ "*" ]
       }
     ]
-  },
-  "webcredentials": {
-    "apps": [
-      "H93TVJ2XJU.com.yara.yaraplus.debug"
-    ]
   }
 }
