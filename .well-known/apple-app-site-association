@@ -3,14 +3,14 @@
     "apps": [],
     "details": [
       {
-        "appID": "77LUM685W7.com.yara.yaraplus.dev",
+        "appID": "H93TVJ2XJU.com.yara.yaraplus.debug",
         "paths": [ "/ypages/*" ]
       }
     ]
   },
   "webcredentials": {
     "apps": [
-      "77LUM685W7.com.yara.yaraplus.dev"
+      "H93TVJ2XJU.com.yara.yaraplus.debug"
     ]
   }
 }
